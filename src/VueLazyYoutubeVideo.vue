@@ -95,7 +95,7 @@ export default {
   methods: {
     generateURL() {
       const query = '?rel=0&showinfo=0&autoplay=1'
-      return `https://www.youtube.com/embed/${this.id}${query}`
+      return `https://www.youtube-nocookie.com/embed/${this.id}${query}`
     },
     clickHandler() {
       this.isVideoLoaded = true
