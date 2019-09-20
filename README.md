@@ -14,12 +14,7 @@
 ### Via NPM
 
 ```bash
-$ npm install vue-lazy-youtube-video --save
-```
-### Via Yarn
-
-```bash
-$ yarn add vue-lazy-youtube-video
+npm install --save LeonBuchner/vue-lazy-youtube-video#master
 ```
 
 ## Initialization
