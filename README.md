@@ -7,6 +7,7 @@
 * a11y included.
 * `.webp` preview img format for modern browsers that support it, with `.jpg` fallback for browsers that don't.
 * reduced initial load size by ~1.1MB per video.
+* Only Youtube Nocookie embed is possible => GDPR compliant
 
 ## 💿 Installation
 
